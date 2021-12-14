@@ -112,6 +112,24 @@ Rules:
 - no conditions (if, switch)
 - mute
 
+### Session # 5
+
+|       #       | Participant A | Participant B | Pair Space |
+| :-----------: | :-----------: |:-------------:| :---------:|
+| 1 | Petr J. | Martin L. | [meeting room](https://hangouts.google.com/call/Z4bgiI56eIARj9BGypxyACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-6-0-1639469600539) |
+| 2 | Kateřina K. | Martin M. | [meeting room](https://hangouts.google.com/call/Z7StD6iLyPMNMn3GNl24ACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-6-1-1639469600539) |
+| 3 | Zdeněk B. | Martin K. | [meeting room](https://hangouts.google.com/call/Sby41nQmIvpfRpQEektWACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-6-2-1639469600539) |
+| 4 | Jiří K. | Róbert J. | [meeting room](https://hangouts.google.com/call/O33OXx57WIobEoYi_61EACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-6-3-1639469600539) |
+| 5 | Filip M. | Filip O. | [meeting room](https://hangouts.google.com/call/EEW2cquAKJMB0Jb788emACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-6-4-1639469600539) |
+
+Rules:
+
+- Game of Life
+- TDD - ping-ping
+- 4 Rules of Simple Design
+- no arrays/collections
+- pure functions only
+
 ## Game of Life
 
 ### Rules
