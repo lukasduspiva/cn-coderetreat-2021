@@ -94,6 +94,24 @@ Rules:
 - 4 Rules of Simple Design
 - TDD as if you meant it
 
+### Session # 4
+
+|       #       | Participant A | Participant B | Pair Space |
+| :-----------: | :-----------: |:-------------:| :---------:|
+| 1 | Kateřina K. | Martin L. | [meeting room](https://hangouts.google.com/call/Z4bgiI56eIARj9BGypxyACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-4-0-1639469600537) |
+| 2 | Róbert J. | Martin K. | [meeting room](https://hangouts.google.com/call/Z7StD6iLyPMNMn3GNl24ACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-4-1-1639469600537) |
+| 3 | Filip O. | Petr J. | [meeting room](https://hangouts.google.com/call/Sby41nQmIvpfRpQEektWACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-4-2-1639469600537) |
+| 4 | Martin M. | Jiří K. | [meeting room](https://hangouts.google.com/call/O33OXx57WIobEoYi_61EACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-4-3-1639469600537) |
+| 5 | Filip M. | Zdeněk B. | [meeting room](https://hangouts.google.com/call/EEW2cquAKJMB0Jb788emACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-4-4-1639469600537) |
+
+Rules:
+
+- Game of Life
+- TDD - ping-pong
+- 4 Rules of Simple Design
+- no conditions (if, switch)
+- mute
+
 ## Game of Life
 
 ### Rules
