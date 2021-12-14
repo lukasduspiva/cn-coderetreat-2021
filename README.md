@@ -57,6 +57,21 @@ Random and for each session unique pairs are generated based on [Stupid Sort](ht
 | 4 | Kateřina K. | Jiří K. | [meeting room](https://hangouts.google.com/call/O33OXx57WIobEoYi_61EACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-1-3-1639469600536) |
 | 5 | Martin M. | Filip O. | [meeting room](https://hangouts.google.com/call/EEW2cquAKJMB0Jb788emACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-1-4-1639469600536) |
 
+
+### Session # 2
+
+|       #       | Participant A | Participant B | Pair Space |
+| :-----------: | :-----------: |:-------------:| :---------:|
+| 1 | Róbert J. | Petr J. | [meeting room](https://hangouts.google.com/call/Z4bgiI56eIARj9BGypxyACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-2-0-1639469600536) |
+| 2 | Martin L. | Martin M. | [meeting room](https://hangouts.google.com/call/Z7StD6iLyPMNMn3GNl24ACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-2-1-1639469600536) |
+| 3 | Kateřina K. | Filip M. | [meeting room](https://hangouts.google.com/call/Sby41nQmIvpfRpQEektWACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-2-2-1639469600536) |
+| 4 | Filip O. | Zdeněk B. | [meeting room](https://hangouts.google.com/call/O33OXx57WIobEoYi_61EACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-2-3-1639469600536) |
+| 5 | Jiří K. | Martin K. | [meeting room](https://hangouts.google.com/call/EEW2cquAKJMB0Jb788emACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-2-4-1639469600536) |
+
+- Game of Life
+- TDD - ping-pong
+- max 4 lines of code per method/function
+
 ## Game of Life
 
 ### Rules
