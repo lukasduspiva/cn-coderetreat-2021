@@ -42,3 +42,86 @@ Any participant should prepare for pairing with a developer of any platform. The
 | 15:45 - 16:45 | **Session # 5** |
 | 16:45 - 17:00 | Closing circle retrospective |
 
+## Sessions
+
+Random and for each session unique pairs are generated based on [Stupid Sort](https://en.wikipedia.org/wiki/Stupid_sort) algorithm utilizing **Mulberry32** random number generator with seed `12`.
+
+
+### Session # 1
+
+|       #       | Participant A | Participant B | Pair Space |
+| :-----------: | :-----------: |:-------------:| :---------:|
+| 1 | Zdeněk B. | Róbert J. | [meeting room](https://hangouts.google.com/call/Z4bgiI56eIARj9BGypxyACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-1-0-1639469600536) |
+| 2 | Martin L. | Martin K. | [meeting room](https://hangouts.google.com/call/Z7StD6iLyPMNMn3GNl24ACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-1-1-1639469600536) |
+| 3 | Filip M. | Petr J. | [meeting room](https://hangouts.google.com/call/Sby41nQmIvpfRpQEektWACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-1-2-1639469600536) |
+| 4 | Kateřina K. | Jiří K. | [meeting room](https://hangouts.google.com/call/O33OXx57WIobEoYi_61EACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-1-3-1639469600536) |
+| 5 | Martin M. | Filip O. | [meeting room](https://hangouts.google.com/call/EEW2cquAKJMB0Jb788emACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-1-4-1639469600536) |
+
+## Game of Life
+
+### Rules
+
+1. Any live cell with fewer than two live neighbors dies, as if by underpopulation.
+2. Any live cell with two or three live neighbors lives on to the next generation.
+3. Any live cell with more than three live neighbors dies, as if by overpopulation.
+4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
+
+For more information visit the [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) page at Wikipedia.
+
+#### Rule # 1
+
+`generation x` `(n < 2)`
+| ⬜ | ⬜ | ⬜ |
+|:---:|:---:|:---:|
+| ⬜ | 🦠 | ⬜ |
+| ⬜ | ⬜ | 🦠 |
+
+`generation x + 1`
+| ❔ | ❔ | ❔ |
+|:---:|:---:|:---:|
+| ❔ | ⬜ | ❔ |
+| ❔ | ❔ | ❔ |
+
+#### Rule # 2
+
+`generation x` `(n = 2,3)`
+| ⬜ | ⬜ | ⬜ |
+|:---:|:---:|:---:|
+| 🦠 | 🦠 | ⬜ |
+| ⬜ | 🦠 | 🦠 |
+
+`generation x + 1`
+| ❔ | ❔ | ❔ |
+|:---:|:---:|:---:|
+| ❔ | 🦠 | ❔ |
+| ❔ | ❔ | ❔ |
+
+#### Rule # 3
+
+`generation x` `(n > 3)`
+| 🦠 | 🦠 | 🦠 |
+|:---:|:---:|:---:|
+| 🦠 | 🦠 | 🦠 |
+| 🦠 | 🦠 | 🦠 |
+
+`generation x + 1`
+| ❔ | ❔ | ❔ |
+|:---:|:---:|:---:|
+| ❔ | ⬜ | ❔ |
+| ❔ | ❔ | ❔ |
+
+
+#### Rule # 4
+
+`generation x` `(n = 3)`
+| ⬜ | ⬜ | ⬜ |
+|:---:|:---:|:---:|
+| 🦠 | ⬜ | ⬜ |
+| ⬜ | 🦠 | 🦠 |
+
+`generation x + 1`
+| ❔ | ❔ | ❔ |
+|:---:|:---:|:---:|
+| ❔ | 🦠 | ❔ |
+| ❔ | ❔ | ❔ |
+
