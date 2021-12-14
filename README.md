@@ -57,6 +57,9 @@ Random and for each session unique pairs are generated based on [Stupid Sort](ht
 | 4 | Kateřina K. | Jiří K. | [meeting room](https://hangouts.google.com/call/O33OXx57WIobEoYi_61EACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-1-3-1639469600536) |
 | 5 | Martin M. | Filip O. | [meeting room](https://hangouts.google.com/call/EEW2cquAKJMB0Jb788emACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-1-4-1639469600536) |
 
+Rules:
+
+- Game of Life
 
 ### Session # 2
 
@@ -68,9 +71,28 @@ Random and for each session unique pairs are generated based on [Stupid Sort](ht
 | 4 | Filip O. | Zdeněk B. | [meeting room](https://hangouts.google.com/call/O33OXx57WIobEoYi_61EACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-2-3-1639469600536) |
 | 5 | Jiří K. | Martin K. | [meeting room](https://hangouts.google.com/call/EEW2cquAKJMB0Jb788emACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-2-4-1639469600536) |
 
+Rules:
+
 - Game of Life
 - TDD - ping-pong
 - max 4 lines of code per method/function
+
+### Session # 3
+
+|       #       | Participant A | Participant B | Pair Space |
+| :-----------: | :-----------: |:-------------:| :---------:|
+| 1 | Martin K. | Kateřina K. | [meeting room](https://hangouts.google.com/call/Z4bgiI56eIARj9BGypxyACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-3-0-1639469600537) |
+| 2 | Filip O. | Róbert J. | [meeting room](https://hangouts.google.com/call/Z7StD6iLyPMNMn3GNl24ACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-3-1-1639469600537) |
+| 3 | Petr J. | Martin M. | [meeting room](https://hangouts.google.com/call/Sby41nQmIvpfRpQEektWACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-3-2-1639469600537) |
+| 4 | Martin L. | Filip M. | [meeting room](https://hangouts.google.com/call/O33OXx57WIobEoYi_61EACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-3-3-1639469600537) |
+| 5 | Zdeněk B. | Jiří K. | [meeting room](https://hangouts.google.com/call/EEW2cquAKJMB0Jb788emACEI?no_rd) + [paper](https://onthesamepage.online/CN-CODERETREAT-2021-3-4-1639469600537) |
+
+Rules:
+
+- Game of Life
+- TDD - ping-pong
+- 4 Rules of Simple Design
+- TDD as if you meant it
 
 ## Game of Life
 
@@ -140,3 +162,13 @@ For more information visit the [Conway's Game of Life](https://en.wikipedia.org/
 | ❔ | 🦠 | ❔ |
 | ❔ | ❔ | ❔ |
 
+## 4 Rules of Simple Design
+
+Consists of:
+
+1. Tests Pass
+2. Expresses Intent
+3. No Duplication
+4. Small
+
+Further reading - [Corey Haines: Understanding the Four Rules of Simple Design](https://leanpub.com/4rulesofsimpledesign).
